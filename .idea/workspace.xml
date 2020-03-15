@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="049de940-a9df-4685-ad24-0bf7250cc211" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/EX01IdCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/exceptions/PersonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/exceptions/TransactionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/EX05ParkingLot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/MultiLevelParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/PriorityParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/SmallCarParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/EX07TypeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/Game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/TypeGame.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/gameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR01Introduction/PR01Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR02Strings/PR02Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR03Sentence/PR03Sentence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/src/ee/taltech/iti0202/idcode/IDCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/src/ee/taltech/iti0202/idcode/IDCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX02Cpu/src/ee/taltech/iti0202/cpu/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX02Cpu/src/ee/taltech/iti0202/cpu/Cpu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX06Files/src/ee/taltech/iti0202/files/MorseFilesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX06Files/src/ee/taltech/iti0202/files/MorseFilesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019/PR02Strings/src/ee/taltech/iti0202/strings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/PR02Strings/src/ee/taltech/iti0202/strings/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019/PR08Geometry/src/ee/taltech/iti0202/geometry/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/PR08Geometry/src/ee/taltech/iti0202/geometry/shape/Shape.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iti0202-2019" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Main.java" />
+        <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548623258815" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ee.ttu.iti0202.hello.Calculator" />
+      <module name="iti0202-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ee.ttu.iti0202.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ee.ttu.iti0202.hello.HelloWorld" />
+      <module name="iti0202-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ee.ttu.iti0202.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="iti0202-2019" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Calculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="049de940-a9df-4685-ad24-0bf7250cc211" name="Default Changelist" comment="" />
+      <created>1548611102390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548611102390</updated>
+      <workItem from="1548611104877" duration="10263000" />
+      <workItem from="1548749319173" duration="122000" />
+      <workItem from="1554154784782" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10393000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.17315285" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
