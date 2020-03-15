@@ -2,35 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="049de940-a9df-4685-ad24-0bf7250cc211" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/EX01IdCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/BankCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/card/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/exceptions/PersonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/exceptions/TransactionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX04BankManagement/src/ee/taltech/iti0202/bankmanagement/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/EX05ParkingLot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/MultiLevelParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/PriorityParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX05ParkingLot/src/ee/taltech/iti0202/parking/parkinglot/SmallCarParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/EX07TypeGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/Game.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/TypeGame.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/EX07TypeGame/src/TypeGame/gameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR01Introduction/PR01Introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR02Strings/PR02Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iti0202-2019/PR03Sentence/PR03Sentence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/src/ee/taltech/iti0202/idcode/IDCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX01IdCode/src/ee/taltech/iti0202/idcode/IDCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX02Cpu/src/ee/taltech/iti0202/cpu/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX02Cpu/src/ee/taltech/iti0202/cpu/Cpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iti0202-2019/EX06Files/src/ee/taltech/iti0202/files/MorseFilesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/EX06Files/src/ee/taltech/iti0202/files/MorseFilesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iti0202-2019/PR02Strings/src/ee/taltech/iti0202/strings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/PR02Strings/src/ee/taltech/iti0202/strings/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iti0202-2019/PR08Geometry/src/ee/taltech/iti0202/geometry/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/iti0202-2019/PR08Geometry/src/ee/taltech/iti0202/geometry/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITI0208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keys/AWSpriv.ppk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keys/AWSpub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keys/Hotel-API-public" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keys/Hotel-API.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keys/Hotel-API.ppk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/aurelia.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/attribute.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/attribute.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/binding-behavior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/binding-behavior.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/element.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/generator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/generator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/task.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/task.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/value-converter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/generators/value-converter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/jest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/jest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/run.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/run.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/aurelia_project/tasks/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/config/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/config/environment.production.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/src/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/src/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/src/resources/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/test/jest-pretest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/test/unit/app.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/types/fetch.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/types/system.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-ui/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPlugins/getPlugins.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-rest-api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-rest-client" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0202-2019-gui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0203-2019-heroes-back" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0203-2019-heroes-front" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iti0204-2019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-heroes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-zero-to-hero" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ofbiz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ofbiz-framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iti0202-2019/META-INF/iti0202-2019.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/iti0202-2019/ee/ttu/iti0202/hello/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,10 +103,59 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#63#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pipeline/pipeline.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pipeline/pipeline.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iti0202-2019" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +164,15 @@
         <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Main.java" />
         <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Pipeline/Pipeline.ts" />
+        <option value="$PROJECT_DIR$/aurelia_project/aurelia.json" />
+        <option value="$PROJECT_DIR$/src/Pipeline/pipeline-service.ts" />
+        <option value="$PROJECT_DIR$/src/Pipeline/pipeline.ts" />
+        <option value="$PROJECT_DIR$/src/pipeline/pipeline.html" />
+        <option value="$PROJECT_DIR$/src/app.html" />
+        <option value="$PROJECT_DIR$/src/pipeline/pipeline.ts" />
+        <option value="$PROJECT_DIR$/src/resources/index.ts" />
+        <option value="$PROJECT_DIR$/src/app.ts" />
       </list>
     </option>
   </component>
@@ -68,16 +189,42 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="aurelia_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548623258815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584306736611" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Tanel\IdeaProjects\crm-ui\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,16 +300,22 @@
       <workItem from="1548611104877" duration="10263000" />
       <workItem from="1548749319173" duration="122000" />
       <workItem from="1554154784782" duration="8000" />
+      <workItem from="1584300895688" duration="33000" />
+      <workItem from="1584300972249" duration="33000" />
+      <workItem from="1584301013847" duration="1196000" />
+      <workItem from="1584303280072" duration="3757000" />
+      <workItem from="1584307389340" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10393000" />
+    <option name="totallyTimeSpent" value="16034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -176,13 +329,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978678" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.17315285" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="TypeScript" order="14" sideWeight="0.49946696" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -197,13 +351,134 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/iti0202-2019" />
+      <path value="$PROJECT_DIR$/iti0202-2019-gui" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/ee/ttu/iti0202/hello/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/aurelia_project/aurelia.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="425">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pipeline/pipeline-service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline/pipeline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline/pipeline.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#63#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crm-ui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
